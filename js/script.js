@@ -69,7 +69,6 @@ couponBtn.addEventListener("click", () => {
   }
 });
 
-// grandTotal
 
 
 function buyTicket() {
